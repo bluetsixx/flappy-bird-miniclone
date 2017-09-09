@@ -3,7 +3,7 @@
 //  Flappy Bird
 //
 //  Created by Agnes Devina Haryuni on 05/12/2016.
-//  Copyright © 2016 agnes devina haryuni. All rights reserved.
+//  Copyright © 2016 Agnes devina haryuni. All rights reserved.
 //
 
 import UIKit
